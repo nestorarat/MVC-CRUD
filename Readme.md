@@ -1,24 +1,29 @@
-LeeMe.txt
-MVC 		muestra la implementación de 4 operaciones <Crear, Leer, Actualizar, Delete> sobre una 
+ReadMe.md
+MVC 		Muestra la implementación de 4 operaciones <Crear, Leer, Actualizar, Delete> sobre una 
 			base de datos con una organización de arquitectura por capas <Modelo,Vista,Controlador>.
 			
 			Renderiza en lista un recordSet de datos de una tabla definida en base de datos.
 
-# Contenido
-	─Descripción.
-	─Actualización.
-	─Ejecución.
-	─Glosario.
-	─Referencias.
+<a id='contents'></a>
+# Contenido.
+    <ul>
+	<li><a href="#descripcion"> Descripcion</a></li>
+        <li><a href="#actualizacion"> Actualización</a></li>
+        <li><a href="#ejecucion">Ejecución</a></li>
+        <li><a href="#glosario">Glosario</a></li>
+	<li><a href="#referencias">Referencias</a></li>
+	<li><a href="#persona">Persona</a></li>
+    </ul>
 
-## Antecedente. 
-			leeMe.txt CapasRecordSet			
+# Antecedente. 
+			ReadMe.txt CapasRecordSet			
 			Muestra como organizar una aplicación web en capas; muestra como las colecciones 
 			de los script .htcacces -raiz,public/app- es interpretado por el servidor Apache 
 			desarrolla:
 			i) direccionamiento de la petición del cliente en una URL.
 			ii) Prohibe mostrar el index de proyectos en la carpeta raiz.
-			
+
+<a id='descripcion'></a>
 # Descripción.
 <que>
 		Se presenta una aplicación web entre un cliente-servidor, que muestra una interfaz de 
@@ -142,7 +147,9 @@ MVC 		muestra la implementación de 4 operaciones <Crear, Leer, Actualizar, Dele
 			 │      └─ ProductosVista.php//renderiza UI con los recorSet de la base de datos.
 			 └─ .htaccess // prohibe la indexación de archivos.
 		```
-		</br>	 
+		</br>	
+  
+<a id='actualizacion'></a>
 # Actualización.
 
 			Cualquier petición debe ser recuperada, direccionada y atendida hacia: /public/index.php. 
@@ -178,7 +185,8 @@ MVC 		muestra la implementación de 4 operaciones <Crear, Leer, Actualizar, Dele
 							   $control = new Control();
 			```
 			</br>
-					
+
+<a id='ejecucion'></a>
 # Ejecución.
 			1)Ejecutar en modo administrador la aplicación: xampp-control.exe
 			2)Ejecutar en la barra de direcciones del navegador local: http://localhost/MVC/
@@ -186,7 +194,7 @@ MVC 		muestra la implementación de 4 operaciones <Crear, Leer, Actualizar, Dele
 					Modificar  				<- modifica un registro-atributo. 
 					Borrar     				<- borra un registro-atributo.
 					Agrega nuevo producto   <- actualiza un registro-atributo.
-		
+<a id='glosario'></a>
 # Glosario.
 
 .htaccess
@@ -195,7 +203,7 @@ MVC 		muestra la implementación de 4 operaciones <Crear, Leer, Actualizar, Dele
 			una forma de realizar cambios en la configuración en contexto directorio. 
 			Un fichero, que contiene una o más directivas, se coloca en un documento específico 
 			de un directorio, y estas directivas aplican a ese directorio y todos sus subdirectorios.
-
+<a id='referencias'></a>
 #Referencias.
 
 Introducción a la programación orientada a objetos con PHP: 
@@ -221,3 +229,9 @@ Consultado en: 25/03/2025
 MVC en nuestro proyecto con PHP y Composer 
 Disponible en: ttps://www.youtube.com/watch?v=suJCaXZwO0o
 Consultado en: 25/03/2025
+
+<a id='persona'></a>
+#A BOUT ME
+Estudiante de ingenieria en sistemas computacionlaes de 8vo semestre del Tecnologico Nacional de México.
+Yo soy Arat, elaborador de este poryecto de parcial.
+Este poryecto se basa en la renderizacion de la tabla productos usado con CRUD.
