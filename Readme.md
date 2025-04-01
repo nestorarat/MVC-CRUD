@@ -204,7 +204,7 @@
 			Un fichero, que contiene una o más directivas, se coloca en un documento específico 
 			de un directorio, y estas directivas aplican a ese directorio y todos sus subdirectorios.
 <a id='referencias'></a>
-###Referencias.
+Referencias.
 
     Introducción a la programación orientada a objetos con PHP: 
     La programación orientada a objetos te permitirá hacer proyectos con PHP.
@@ -231,7 +231,7 @@
     Consultado en: 25/03/2025
 
 <a id='persona'></a>
-###A BOUT ME
+A BOUT ME
 
 Estudiante de ingenieria en sistemas computacionlaes de 8vo semestre del Tecnologico Nacional de México.
 Yo soy Arat, elaborador de este poryecto de parcial.
