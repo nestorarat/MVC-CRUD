@@ -6,14 +6,14 @@
 
 <a id='contents'></a>
 ## Contenido.
-    <ul>
+<ul>
 	<li><a href="#descripcion"> Descripcion</a></li>
         <li><a href="#actualizacion"> Actualización</a></li>
         <li><a href="#ejecucion">Ejecución</a></li>
         <li><a href="#glosario">Glosario</a></li>
 	<li><a href="#referencias">Referencias</a></li>
 	<li><a href="#persona">Persona</a></li>
-    </ul>
+</ul>
 
 ### Antecedente. 
 			ReadMe.txt CapasRecordSet			
@@ -206,32 +206,33 @@
 <a id='referencias'></a>
 ###Referencias.
 
-Introducción a la programación orientada a objetos con PHP: 
-La programación orientada a objetos te permitirá hacer proyectos con PHP.
-Formato: Edición Kindle. ASIN ‏ : ‎ B07Z6KKLX1					
+    Introducción a la programación orientada a objetos con PHP: 
+    La programación orientada a objetos te permitirá hacer proyectos con PHP.
+    Formato: Edición Kindle. ASIN ‏ : ‎ B07Z6KKLX1					
 
-Crear un patrón MVC con PHP y MySQL.
-Disponible en: <https://www.udemy.com/course/crear-un-patron-mvc-con-php-y-mysql/learn/lecture/12655444#overview>
+    Crear un patrón MVC con PHP y MySQL.
+    Disponible en: <https://www.udemy.com/course/crear-un-patron-mvc-con-php-y-mysql/learn/lecture/12655444#overview>
 
-PHP MVC y Estructura en Carpetas (Proyecto MVC PHP)
-Disponible en: <https://github.com/velamds/PHP_MVC_Youtube?tab=readme-ov-file.>
-Disponible en: <https://www.youtube.com/@ElProfeSergio/videos>
+    PHP MVC y Estructura en Carpetas (Proyecto MVC PHP)
+    Disponible en: <https://github.com/velamds/PHP_MVC_Youtube?tab=readme-ov-file.>
+    Disponible en: <https://www.youtube.com/@ElProfeSergio/videos>
 
-Qué es el archivo .htaccess: Guía completa.
-Disponible en: <https://www.hostinger.mx/tutoriales/que-es-el-archivo-htaccess>
+    Qué es el archivo .htaccess: Guía completa.
+    Disponible en: <https://www.hostinger.mx/tutoriales/que-es-el-archivo-htaccess>
 
-Disponible en: <https://www.php.net/manual/es/mysqli.construct.php>
+    Disponible en: <https://www.php.net/manual/es/mysqli.construct.php>
 
-MVC en PHP || Como hacer un proyecto MVC basico en PHP
-Disponible en: https://www.youtube.com/watch?v=JWi4_8_d-RM&t=386s
-Consultado en: 25/03/2025
+    MVC en PHP || Como hacer un proyecto MVC basico en PHP
+    Disponible en: https://www.youtube.com/watch?v=JWi4_8_d-RM&t=386s
+    Consultado en: 25/03/2025
 
-MVC en nuestro proyecto con PHP y Composer 
-Disponible en: ttps://www.youtube.com/watch?v=suJCaXZwO0o
-Consultado en: 25/03/2025
+    MVC en nuestro proyecto con PHP y Composer 
+    Disponible en: ttps://www.youtube.com/watch?v=suJCaXZwO0o
+    Consultado en: 25/03/2025
 
 <a id='persona'></a>
 ###A BOUT ME
+
 Estudiante de ingenieria en sistemas computacionlaes de 8vo semestre del Tecnologico Nacional de México.
 Yo soy Arat, elaborador de este poryecto de parcial.
 Este poryecto se basa en la renderizacion de la tabla productos usado con CRUD.
